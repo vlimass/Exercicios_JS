@@ -1,4 +1,4 @@
-console.log('SALDO FAMILIAR:');
+console.log('SALDO FAMILIAR-------');
 
 const balance = {
     incomes: [

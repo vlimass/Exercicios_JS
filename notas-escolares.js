@@ -1,4 +1,4 @@
-console.log('RESULTADO DA NOTA:');
+console.log('RESULTADO DA NOTA-------');
 
 const convertGrades = (numericGrade) => {
     let charGrade;

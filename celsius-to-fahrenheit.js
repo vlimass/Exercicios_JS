@@ -1,4 +1,4 @@
-console.log("CONVERTER CELSIUS-FAHRENHEIT:");
+console.log("CONVERTER CELSIUS-FAHRENHEIT-------");
 
 const verifyTemperatureScale = (string) => {
     let tempScaleResult;
